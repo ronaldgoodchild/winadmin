@@ -11,7 +11,7 @@ winrm>=0.4.3  # Windows Remote Management
 
 # System Operations
 psutil>=5.9.0  # Cross-platform system monitoring
-python-dotenv>=1.0.0  # Environment configuration
+python-dotenv>=1.2.3  # Environment configuration
 
 # Networking
 requests>=2.31.0  # HTTP requests
