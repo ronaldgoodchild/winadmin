@@ -4,6 +4,11 @@ A free, dark-mode **Windows administration GUI** for Windows 10/11 and Windows S
 
 > A Python port and extension of the ideas in the open-source [LazyWinAdmin](https://github.com/lazywinadmin/LazyWinAdmin_GUI) PowerShell tool by Francois-Xavier Cat (MIT license), with a modern CustomTkinter interface and extra features. Credit and thanks to the original author.
 
+## Screenshots
+
+![Category sidebar, per-category tabs and activity log](docs/screenshots/main.png)
+*Category sidebar, per-category tabs and activity log*
+
 ## Features
 
 - **System** - hardware/OS info, uptime, Group Policy update (local or remote)

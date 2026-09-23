@@ -3,7 +3,7 @@
 Comment on (or open) an issue first so we don't duplicate work.
 
 ## Good first issues
-- [ ] Add screenshots (use `localhost` - no real hostnames or IPs)
+- [x] Add screenshots (use `localhost` - no real hostnames or IPs)
 - [ ] Split the 3,000-line `main.py` into one module per category
 - [ ] Add unit tests for `win_admin_tools.py` (parsers, formatters)
 - [ ] Replace deprecated `wmi` / `wmic` calls with CIM cmdlets or `psutil`
