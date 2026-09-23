@@ -14,7 +14,7 @@ psutil>=5.9.0  # Cross-platform system monitoring
 python-dotenv>=1.0.0  # Environment configuration
 
 # Networking
-requests>=2.31.0  # HTTP requests
+requests>=2.34.2  # HTTP requests
 netifaces>=0.11.0  # Network interface info
 
 # Optional - Advanced features
