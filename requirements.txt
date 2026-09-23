@@ -1,0 +1,22 @@
+# LazyWinAdmin - Python Requirements
+# Modern Windows Administration Tool
+
+# GUI
+customtkinter>=5.2.0  # Modern looking tkinter
+
+# Windows Management
+pywin32>=306  # Windows API access
+wmi>=1.5.1    # Windows Management Instrumentation
+winrm>=0.4.3  # Windows Remote Management
+
+# System Operations
+psutil>=5.9.0  # Cross-platform system monitoring
+python-dotenv>=1.0.0  # Environment configuration
+
+# Networking
+requests>=2.31.0  # HTTP requests
+netifaces>=0.11.0  # Network interface info
+
+# Optional - Advanced features
+# pyad>=0.6.0  # Active Directory integration
+# ldap3>=2.9.1  # LDAP operations
