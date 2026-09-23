@@ -10,7 +10,7 @@ wmi>=1.5.1    # Windows Management Instrumentation
 winrm>=0.4.3  # Windows Remote Management
 
 # System Operations
-psutil>=5.9.0  # Cross-platform system monitoring
+psutil>=7.2.2  # Cross-platform system monitoring
 python-dotenv>=1.0.0  # Environment configuration
 
 # Networking
