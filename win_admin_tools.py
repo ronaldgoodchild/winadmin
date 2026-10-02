@@ -1522,6 +1522,9 @@ def export_to_csv(data: List[Dict[str, Any]], filepath: str) -> Tuple[bool, str]
         if not data:
             return False, "No data to export"
 
+        if '..' in filepath:
+            raise Exception('Invalid file path')
+
         with open(filepath, 'w', newline='', encoding='utf-8') as f:
             writer = csv.DictWriter(f, fieldnames=data[0].keys())
             writer.writeheader()
