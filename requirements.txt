@@ -5,7 +5,7 @@
 customtkinter>=5.2.0  # Modern looking tkinter
 
 # Windows Management
-pywin32>=306  # Windows API access
+pywin32>=312  # Windows API access
 wmi>=1.5.1    # Windows Management Instrumentation
 winrm>=0.4.3  # Windows Remote Management
 
