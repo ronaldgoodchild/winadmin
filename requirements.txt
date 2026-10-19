@@ -2,7 +2,7 @@
 # Modern Windows Administration Tool
 
 # GUI
-customtkinter>=5.2.0  # Modern looking tkinter
+customtkinter>=6.0.0  # Modern looking tkinter
 
 # Windows Management
 pywin32>=312  # Windows API access
